@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script>
+    function generateUrl() {
+      document.querySelector("#authLink").hidden = false;
+      const url = new URL("https://accounts.google.com/o/oauth2/v2/auth");
+      url.searchParams.append("client_id", "{{env.GOOGLE_OAUTH_CLIENT_ID}}");
+      url.searchParams.append("redirect_uri", "http://localhost:8080/admin/google-oauth-response/");
+      url.searchParams.append("response_type", "code");
+      url.searchParams.append("approval_prompt", "force");
+      url.searchParams.append("access_type", "offline");
+      url.searchParams.append("scope", "https://www.googleapis.com/auth/photoslibrary.readonly https://www.googleapis.com/auth/photoslibrary.sharing");
+      url.searchParams.append("state", Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15));
+
+      document.querySelector("#authLink").href = url.toString();
+    }
+  </script>
+</head>
+<body>
+  <h1>Google OAuth 2.0 Echo</h1>
+  <button onclick="generateUrl()">Generate URL</button>
+  <a id="authLink" hidden>Generated URL</a>
+</body>
+</html>

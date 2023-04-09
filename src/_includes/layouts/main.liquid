@@ -1,12 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Höser Photo Page</title>
-</head>
-<body>
-  {{content}}
-</body>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Höser Photo Page</title>
+    <script
+      defer
+      src="https://identity.netlify.com/v1/netlify-identity-widget.js"
+    ></script>
+    {% rollup "src/ts/main.ts"%}
+    {% lightningcss "src/css/main.css"%}
+  </head>
+  <body>
+    <header>
+      <h1>Höser Fotos</h1>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <a href="/admin/">Admin</a>
+    </footer>
+  </body>
 </html>

@@ -1,14 +1,28 @@
-media_folder: 'assets/imgs/uploads'
+media_folder: "assets/imgs/uploads"
 collections:
   - name: alben
     label: Alben
-    folder: 'src/album'
+    label_singular: Album
+    folder: "src/album"
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Google Album Title", name: "googlePhotosTitle", widget: "string" }
+      - { label: "Verstecken", name: "eleventyExcludeFromCollections", widget: "boolean"}
+      - name: body
+        label: Body
+        widget: "markdown"
+        required: false
+      - name: tags
+        label: Tags
+        widget: select
+        multiple: true
+        options:
+          - Einrad
+          - Handball
 backend:
   name: git-gateway
   branch: main
+local_backend: true

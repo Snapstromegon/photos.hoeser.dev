@@ -1,0 +1,11 @@
+:root {
+  --m: 1rem;
+  --s: calc(var(--m) * 0.75);
+  --xs: calc(var(--s) * 0.75);
+  --xxs: calc(var(--xs) * 0.75);
+  --xxxs: calc(var(--xxs) * 0.75);
+  --l: calc(var(--m) * 1.5);
+  --xl: calc(var(--l) * 1.5);
+  --xxl: calc(var(--xl) * 1.5);
+  --xxxl: calc(var(--xxl) * 1.5);
+}

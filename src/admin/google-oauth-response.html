@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script defer>
+    async function nextStep() {
+      const url = new URL(window.location);
+      const code = url.searchParams.get("code");
+      const stepUrl = new URL("https://oauth2.googleapis.com/token");
+      stepUrl.searchParams.append("code", code);
+      stepUrl.searchParams.append("client_id", "{{env.GOOGLE_OAUTH_CLIENT_ID}}");
+      stepUrl.searchParams.append("client_secret", "{{env.GOOGLE_OAUTH_CLIENT_SECRET}}");
+      stepUrl.searchParams.append("approval_prompt", "force");
+      stepUrl.searchParams.append("access_type", "offline");
+      stepUrl.searchParams.append("grant_type", "authorization_code");
+      stepUrl.searchParams.append("redirect_uri", "http://localhost:8080/admin/google-oauth-response/");
+      console.log(stepUrl.toString());
+      const response = await fetch(stepUrl.toString(), {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/x-www-form-urlencoded",
+        },
+      });
+      const data = await response.json();
+      console.log(data);
+      rt.innerText = data.refresh_token;
+    }
+  </script>
+</head>
+<body>
+  <h1>Google OAuth 2.0 Echo</h1>
+  <button onclick="nextStep()">Next Step</button>
+  <p id="rt"></p>
+</body>
+</html>

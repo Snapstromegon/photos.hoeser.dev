@@ -1,12 +1,15 @@
 const markdownItAttrs = require("markdown-it-attrs");
 const markdownItEmoji = require("markdown-it-emoji");
 const markdownItContainer = require("markdown-it-container");
+const yaml = require("js-yaml");
 
 const plugins = require("./config/plugins.cjs");
 const filters = require("./config/filters.cjs");
 const shortcodes = require("./config/shortcodes.cjs");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
+  eleventyConfig.addDataExtension("yml", (contents) => yaml.load(contents));
   eleventyConfig.amendLibrary("md", (mdLib) => {
     mdLib
       .set({
