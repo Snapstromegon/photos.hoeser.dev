@@ -6,7 +6,7 @@ layout: layouts/main.liquid
 {% for album in collections.album reversed %}
 {% assign googleAlbum = album.data.googlePhotosTitle | googlePhotosAlbum %}
 {% if googleAlbum %}
-<a class="album" href="{{googleAlbum.productUrl}}">
+<a class="album" href="{{page.data.googlePhotosUrl}}">
 {%image googleAlbum.coverPhotoBaseUrl "Thumbnail"%}
 
 <footer>

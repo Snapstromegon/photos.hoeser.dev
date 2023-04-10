@@ -10,6 +10,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Google Album Title", name: "googlePhotosTitle", widget: "string" }
+      - { label: "Google Album URL", name: "googlePhotosUrl", widget: "string" }
       - { label: "Verstecken", name: "eleventyExcludeFromCollections", widget: "boolean"}
       - name: body
         label: Body
