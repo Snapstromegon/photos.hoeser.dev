@@ -49,6 +49,7 @@ footer {
     box-shadow: 0 0 var(--xxs) calc(var(--xxs) / 2) #0002;
     border-radius: var(--xxs);
     background: #333;
+    transition: background-color 0.2s ease-in-out;
 
     & picture {
       display: contents;
@@ -61,7 +62,6 @@ footer {
       object-fit: contain;
       grid-row: 1 / -1;
       grid-column: 1 / -1;
-      transition: background-color 0.2s ease-in-out;
     }
 
     & footer {
