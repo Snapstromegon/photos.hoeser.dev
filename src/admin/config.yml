@@ -1,4 +1,6 @@
 media_folder: "assets/imgs/uploads"
+display_url: /
+site_url: https://fotos.hoeser.dev
 collections:
   - name: alben
     label: Alben
