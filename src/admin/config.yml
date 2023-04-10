@@ -28,6 +28,7 @@ collections:
         label: Google Photos
         widget: list
         collapsed: false
+        required: false
         fields:
           - name: name
             label: Titel
