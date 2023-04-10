@@ -17,7 +17,6 @@
       stepUrl.searchParams.append("access_type", "offline");
       stepUrl.searchParams.append("grant_type", "authorization_code");
       stepUrl.searchParams.append("redirect_uri", "http://localhost:8080/admin/google-oauth-response/");
-      console.log(stepUrl.toString());
       const response = await fetch(stepUrl.toString(), {
         method: "POST",
         headers: {
