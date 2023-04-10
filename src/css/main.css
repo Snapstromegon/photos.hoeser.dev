@@ -13,6 +13,15 @@ main, header, footer {
   padding: var(--m);
 }
 
+header a{
+  color: #000;
+  text-decoration: none;
+}
+
+main :first-child {
+  margin-block-start: 0;
+}
+
 footer {
   background-color: #ea4;
 
@@ -21,12 +30,13 @@ footer {
   }
 }
 
-#albumGrid {
+#grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
   grid-gap: var(--m);
+  margin-block: var(--m);
 
-  .album {
+  .card {
     text-decoration: none;
     display: grid;
     overflow: hidden;

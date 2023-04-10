@@ -30,6 +30,9 @@ async function loadAlbumsChunk(pageToken, size) {
     `https://photoslibrary.googleapis.com/v1/sharedAlbums?pageToken=${pageToken}&page_size=${size}&access_token=${token}`
   );
   const res = await resp.json();
+  for (const album of res.sharedAlbums) {
+    album.mediaItemsCount = parseInt(album.mediaItemsCount);
+  }
   return res;
 }
 
@@ -49,13 +52,9 @@ async function getAlbums() {
   return allAlbums;
 }
 
-module.exports = (eleventyConfig) => {
-  eleventyConfig.addFilter("googlePhotosAlbum", async (title) => {
-    const albums = await getAlbums();
-    const album = albums.find(
-      (a) => a.title.trim().toLowerCase() === title.trim().toLowerCase()
-    );
-    console.log(album)
-    return album;
-  });
+module.exports = async () => {
+  const allAlbums = await getAlbums();
+  return {
+    allAlbums,
+  };
 };

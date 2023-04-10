@@ -2,24 +2,19 @@
 layout: layouts/main.liquid
 ---
 
-<section id="albumGrid">
-{% for album in collections.album reversed %}
-{% assign googleAlbum = album.data.googlePhotosTitle | googlePhotosAlbum %}
-{% if googleAlbum %}
-<a class="album" href="{{album.data.googlePhotosUrl}}">
-{%image googleAlbum.coverPhotoBaseUrl "Thumbnail"%}
+<section id="grid">
+{% for event in collections.event reversed %}
+<a class="card" href="{{event.url}}">
+{%image event.data.coverUrl "Thumbnail"%}
 
 <footer>
 
-## {{album.data.title}}
+## {{event.data.title}}
 
 <div class="photos_count">
-<span class="count">{{googleAlbum.mediaItemsCount}}</span> Foto(s)
+<span class="count">{{event.data.photosCount}}</span> Foto(s)
 </div>
 </footer>
 </a>
-{% else %}
-
-{% endif %}
 {% endfor %}
 </section>

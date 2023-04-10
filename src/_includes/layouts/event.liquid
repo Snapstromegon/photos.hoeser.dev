@@ -1,0 +1,25 @@
+---
+layout: layouts/main.liquid
+---
+
+<h2>{{title}}</h2>
+
+<section id="grid">
+{% for album in albums %}
+
+<a class="card" href="{{album.shareUrl}}">
+{%image album.coverPhotoBaseUrl album.title%}
+<footer>
+
+<h3>{{album.title}}</h3>
+
+<div class="photos_count">
+<span class="count">{{album.mediaItemsCount}}</span> Foto(s)
+</div>
+</footer>
+</a>
+
+{% endfor %}
+</section>
+
+{{content}}

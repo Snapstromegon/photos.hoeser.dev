@@ -32,6 +32,4 @@ module.exports = (eleventyConfig) => {
     support: browserslist("last 2 versions, not dead"),
     watch: "assets/css/",
   });
-
-  eleventyConfig.addPlugin(require("./lib/google-photos-utils.cjs"));
 };

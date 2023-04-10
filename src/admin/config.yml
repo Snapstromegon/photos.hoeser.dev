@@ -2,29 +2,41 @@ media_folder: "assets/imgs/uploads"
 display_url: /
 site_url: https://fotos.hoeser.dev
 collections:
-  - name: alben
-    label: Alben
-    label_singular: Album
-    folder: "src/album"
+  - name: events
+    label: Events
+    label_singular: Event
+    folder: src/events
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Google Album Title", name: "googlePhotosTitle", widget: "string" }
-      - { label: "Google Album URL", name: "googlePhotosUrl", widget: "string" }
-      - { label: "Verstecken", name: "eleventyExcludeFromCollections", widget: "boolean"}
-      - name: body
-        label: Body
-        widget: "markdown"
-        required: false
-      - name: tags
-        label: Tags
-        widget: select
-        multiple: true
-        options:
-          - Einrad
-          - Handball
+      - {
+          label: "Verstecken",
+          name: "eleventyExcludeFromCollections",
+          widget: "boolean",
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options: ["Einrad", "Handball"],
+        }
+      - name: google_photos
+        label: Google Photos
+        widget: list
+        collapsed: false
+        fields:
+          - name: name
+            label: Titel
+            widget: string
+          - name: url
+            label: URL
+            widget: string
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+
 backend:
   name: git-gateway
   branch: main
