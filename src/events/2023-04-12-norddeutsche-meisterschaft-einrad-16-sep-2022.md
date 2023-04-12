@@ -9,3 +9,6 @@ google_photos:
     url: https://photos.app.goo.gl/oCE5zjaVWUdTEBk6A
 ---
 [https://www.einradverband.de/2022/08/31/ndm-freestyle-ausschreibung/](https://www.einradverband.de/2022/08/31/ndm-freestyle-ausschreibung/)
+
+
+Fotos: Liz & Thomas Höser
