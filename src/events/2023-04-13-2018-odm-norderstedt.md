@@ -1,5 +1,5 @@
 ---
-title: 2018 ODM Norderstedt
+title: 2018 ODM Freestyle / Norderstedt
 date: 2018-11-10T16:43:20+01:00
 eleventyExcludeFromCollections: false
 google_photos:
