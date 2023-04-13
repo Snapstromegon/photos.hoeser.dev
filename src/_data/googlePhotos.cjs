@@ -45,7 +45,9 @@ async function getAlbums() {
         currentPage = await loadAlbumsChunk(currentPage.nextPageToken, 50);
         result.push(...currentPage.sharedAlbums);
       }
-      console.log(JSON.stringify(result, undefined, 2));
+      for(const res of result) {
+        console.log("Found Album", res.title);
+      }
 
       resolve(result);
     });
