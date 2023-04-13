@@ -1,5 +1,5 @@
 ---
-title: Norddeutsche Meisterschaft Einrad 2022 / Bottrop
+title: 2022 Norddeutsche Meisterschaft Einrad / Bottrop
 date: 2022-09-16T15:25:09+02:00
 eleventyExcludeFromCollections: false
 google_photos:
