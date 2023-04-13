@@ -1,5 +1,5 @@
 ---
-title: DM 2019 Freestyle - Nümbrecht
+title: 2019 DM Freestyle / Nümbrecht
 date: 2019-11-15T16:37:10+01:00
 eleventyExcludeFromCollections: false
 google_photos:
