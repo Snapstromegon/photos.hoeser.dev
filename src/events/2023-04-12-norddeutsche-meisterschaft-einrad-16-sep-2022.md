@@ -1,5 +1,5 @@
 ---
-title: 2022 Norddeutsche Meisterschaft Freestyle / Bottrop
+title: 2022 Norddeutsche Meisterschaft / Bottrop
 date: 2022-09-16T15:25:09+02:00
 eleventyExcludeFromCollections: false
 google_photos:
