@@ -1,5 +1,5 @@
 ---
-title: 2019 Deutsche Meisterschaft Freestyle / Nümbrecht
+title: 2019 Deutsche Meisterschaft / Nümbrecht
 date: 2019-11-15T16:37:10+01:00
 eleventyExcludeFromCollections: false
 google_photos:
