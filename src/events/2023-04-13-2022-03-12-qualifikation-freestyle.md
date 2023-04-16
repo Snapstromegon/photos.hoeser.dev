@@ -1,5 +1,5 @@
 ---
-title: 2022-03-12 Qualifikation Freestyle
+title: 2022 Qualifikation Freestyle
 date: 2022-03-12T16:34:43+01:00
 eleventyExcludeFromCollections: false
 google_photos:
