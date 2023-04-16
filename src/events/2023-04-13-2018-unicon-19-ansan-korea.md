@@ -1,5 +1,5 @@
 ---
-title: 2018 Unicon 19 / Ansan - Korea
+title: 2018 UNICON 19 / Ansan - Korea
 date: 2018-08-11T17:06:38+02:00
 eleventyExcludeFromCollections: false
 google_photos:
