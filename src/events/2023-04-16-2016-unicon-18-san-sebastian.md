@@ -1,5 +1,5 @@
 ---
-title: 2016 Unicon 18 / San Sebastian
+title: 2016 UNICON 18 / San Sebastian
 date: 2016-07-30T11:47:02+02:00
 eleventyExcludeFromCollections: false
 tags:
