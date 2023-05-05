@@ -1,6 +1,5 @@
 ---
-title: 2023 Landesmeisterschaft Einrad Freestyle Bremen, Niedersachsen,
-  Nordrhein-Westfalen
+title: 2023 Norddeutsche Landesmeisterschaft
 date: 2023-05-06T22:43:14+02:00
 eleventyExcludeFromCollections: false
 tags:
@@ -11,12 +10,6 @@ google_photos:
   - url: https://photos.app.goo.gl/6qYLj6yLyrd2mXC19
     name: 2023-05-06 NDM 1.Tag Paarküren
 ---
+# Landesmeisterschaft Einrad Freestyle Bremen, Niedersachsen, Nordrhein-Westfalen
+
 [https://unicycle-team.de/](https://unicycle-team.de/)
-
-
-
-
-
-
-
-
