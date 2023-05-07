@@ -15,6 +15,8 @@ google_photos:
     name: 2023-05-07 NDM 2.Tag Einzelküren
   - url: https://photos.app.goo.gl/9rSPoSJrYahjLmaZ6
     name: 2023-05-07 NDM 2.Tag Paarküren
+  - name: 2023-05-07 2.Tag Gruppenküren
+    url: https://photos.app.goo.gl/u5BRLtMh2ztXMtwa8
 ---
 # Landesmeisterschaft Einrad Freestyle Bremen, Niedersachsen, Nordrhein-Westfalen
 
