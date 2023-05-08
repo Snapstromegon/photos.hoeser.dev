@@ -1,5 +1,5 @@
 ---
-title: 2023 Landesmeisterschaft in Harpstedt
+title: 2023 Landesmeisterschaft / Harpstedt
 date: 2023-05-06T22:43:14+02:00
 eleventyExcludeFromCollections: false
 tags:
