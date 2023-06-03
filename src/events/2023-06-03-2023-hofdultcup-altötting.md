@@ -1,0 +1,10 @@
+---
+title: 2023 Hofdultcup Altötting
+date: 2023-06-03T18:50:31.792+02:00
+eleventyExcludeFromCollections: false
+tags:
+  - Einrad
+google_photos:
+  - url: https://photos.app.goo.gl/hJnf8JEsA5quCmbH6
+    name: 2023-06-03 Hofdultcup Altötting - 1.Tag
+---
