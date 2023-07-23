@@ -1,5 +1,5 @@
 ---
-title: 2023 Circus Calibrasta
+title: 2023 Circus Calibastra
 date: 2023-07-22T20:10:07+02:00
 eleventyExcludeFromCollections: false
 tags:
