@@ -30,6 +30,7 @@ async function loadAlbumsChunk(pageToken, size) {
     `https://photoslibrary.googleapis.com/v1/sharedAlbums?pageToken=${pageToken}&page_size=${size}&access_token=${token}`
   );
   const res = await resp.json();
+  console.log("Google Photos API Response", res);
   for (const album of res.sharedAlbums) {
     album.mediaItemsCount = parseInt(album.mediaItemsCount);
   }
