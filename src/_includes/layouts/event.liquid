@@ -1,14 +1,27 @@
 ---
 layout: layouts/main.liquid
+subpage: true
 ---
 
 <h2>{{title}}</h2>
+
+<h3>Fotos von</h3>
+<div class="photographers">
+{%- for photographer in photographers-%}
+{% assign headshot = photographer_data[photographer].picture %}
+<div class="photographer">
+{%image headshot photographer%}
+<span class="photographer__name">{{photographer_data[photographer].fullName}}</span>
+</div>
+{%- endfor %}
+</div>
 
 <section id="grid">
 {% for album in albums %}
 
 <a class="card" href="{{album.shareUrl}}">
 {% if album.coverPhotoBaseUrl -%}
+{%image album.coverPhotoBaseUrl album.title%}
 {%image album.coverPhotoBaseUrl album.title%}
 {% endif %}
 <footer>

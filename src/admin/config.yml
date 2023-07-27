@@ -24,6 +24,14 @@ collections:
           required: false,
           options: ["Einrad", "Handball"],
         }
+      - {
+          label: "Fotografen",
+          name: "photographs",
+          widget: "select",
+          multiple: true,
+          required: false,
+          options: ["Kim", "Liz", "Thomas"],
+        }
       - name: google_photos
         label: Google Photos
         widget: list
