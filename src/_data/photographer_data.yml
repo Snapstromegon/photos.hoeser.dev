@@ -1,6 +1,9 @@
 Liz:
   fullName: "Liz Höser"
   picture: "assets/imgs/profiles/Liz.jpg"
+Kim:
+  fullName: "Kim Höser"
+  picture: "assets/imgs/profiles/Kim.jpg"
 Thomas:
   fullName: "Thomas Höser"
   picture: "assets/imgs/profiles/Thomas.jpg"
