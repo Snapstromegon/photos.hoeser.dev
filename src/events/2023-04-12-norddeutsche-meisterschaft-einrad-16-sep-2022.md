@@ -2,6 +2,11 @@
 title: 2022 Norddeutsche Meisterschaft / Bottrop
 date: 2022-09-16T15:25:09+02:00
 eleventyExcludeFromCollections: false
+tags:
+  - Einrad
+photographs:
+  - Liz
+  - Thomas
 google_photos:
   - url: https://photos.app.goo.gl/Kd31UNgSAnjPzG339
     name: 2022-09-18 NDM 3.Tag
