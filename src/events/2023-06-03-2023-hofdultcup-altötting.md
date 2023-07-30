@@ -4,7 +4,7 @@ date: 2023-06-03T18:50:31.792+02:00
 eleventyExcludeFromCollections: false
 tags:
   - Einrad
-photographs:
+photographers:
   - Thomas
 google_photos:
   - url: https://photos.app.goo.gl/JDZEhF28mMN4jf9b6

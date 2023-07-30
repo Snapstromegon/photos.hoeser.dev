@@ -5,6 +5,7 @@ subpage: true
 
 <h2>{{title}}</h2>
 
+{% if photographers %}
 <h3>Fotos von</h3>
 <div class="photographers">
 {%- for photographer in photographers-%}
@@ -15,6 +16,7 @@ subpage: true
 </div>
 {%- endfor %}
 </div>
+{%- endif %}
 
 <section id="grid">
 {% for album in albums %}

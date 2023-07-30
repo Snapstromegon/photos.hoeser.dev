@@ -4,7 +4,7 @@ date: 2022-09-16T15:25:09+02:00
 eleventyExcludeFromCollections: false
 tags:
   - Einrad
-photographs:
+photographers:
   - Liz
   - Thomas
 google_photos:

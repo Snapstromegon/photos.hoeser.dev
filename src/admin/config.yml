@@ -26,7 +26,7 @@ collections:
         }
       - {
           label: "Fotografen",
-          name: "photographs",
+          name: "photographers",
           widget: "select",
           multiple: true,
           required: false,
