@@ -4,6 +4,9 @@ date: 2016-07-30T11:47:02+02:00
 eleventyExcludeFromCollections: false
 tags:
   - Einrad
+photographs:
+  - Liz
+  - Thomas
 google_photos:
   - name: 2016-07-31 Unicon18
     url: https://goo.gl/photos/HEWbewxRbMzZWMSE7
