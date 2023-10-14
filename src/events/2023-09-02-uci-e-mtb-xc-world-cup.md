@@ -5,6 +5,6 @@ eleventyExcludeFromCollections: false
 photographers:
   - Thomas
 google_photos:
-  - name: 2029-09-02 Bielstein UCI E-MTB XC World Cup
+  - name: 2023-09-02 Bielstein UCI E-MTB XC World Cup
     url: https://photos.app.goo.gl/JTuZEYEMX4pegQ3N6
 ---
