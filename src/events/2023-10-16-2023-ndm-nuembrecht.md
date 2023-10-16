@@ -11,8 +11,5 @@ tags:
 Einrad Freestyle
 
 ## SSV Nümbrecht
-27. - 29. Oktober 2023
 
-
-
-
+<p>27. - 29. Oktober 2023</p>
