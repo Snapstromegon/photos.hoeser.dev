@@ -6,8 +6,6 @@ tags:
   - Einrad
 photographers: ""
 google_photos:
-  - name: 2023 NDM
-    url: https://photos.app.goo.gl/SJWdJAomhKThDRXUA
   - url: https://photos.app.goo.gl/Ewjh42zDybKEGN4N7
     name: 2023 NDM Tag1 Einzelküren
   - url: https://photos.app.goo.gl/abJaNDJVnnC6twz68
