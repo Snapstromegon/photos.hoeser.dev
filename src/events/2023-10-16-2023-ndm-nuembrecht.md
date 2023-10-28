@@ -10,6 +10,8 @@ google_photos:
     name: 2023 NDM Tag1 Einzelküren
   - url: https://photos.app.goo.gl/abJaNDJVnnC6twz68
     name: 2023 NDM Tag2 Paarküren
+  - name: 2023 NDM Tag2 Einzelküren
+    url: https://photos.app.goo.gl/pH3Fa1D8ZRGQB1mG7
   - url: https://photos.app.goo.gl/j8GcKti6DqVDD7H76
     name: 2023 NDM Tag3 Expert
   - url: https://photos.app.goo.gl/8SejvpVyBNttNfuW7
