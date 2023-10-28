@@ -27,4 +27,4 @@ Einrad Freestyle
 
 <p>27. - 29. Oktober 2023</p>
 
-Tag1
+Tag2
