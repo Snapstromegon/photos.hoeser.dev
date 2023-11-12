@@ -10,10 +10,10 @@ subpage: true
 <div class="photographers">
 {%- for photographer in photographers-%}
 {% assign headshot = photographer_data[photographer].picture %}
-<div class="photographer">
+<a href="https://www.instagram.com/{{photographer_data[photographer].instagram }}" target="_blank" referrerPolicy="no-referrer" class="photographer">
 {%image headshot photographer%}
 <span class="photographer__name">{{photographer_data[photographer].fullName}}</span>
-</div>
+</a>
 {%- endfor %}
 </div>
 {%- endif %}

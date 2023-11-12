@@ -1,12 +1,16 @@
 Liz:
   fullName: "Liz Höser"
   picture: "assets/imgs/profiles/Liz.jpg"
+  instagram: liz.hoeser
 Kim:
   fullName: "Kim Höser"
   picture: "assets/imgs/profiles/Kim.jpg"
+  instagram: kimliliem
 Thomas:
   fullName: "Thomas Höser"
   picture: "assets/imgs/profiles/Thomas.jpg"
+  instagram: thomashoeser
 Niklas:
   fullName: "Niklas Rittershaus"
   picture: "assets/imgs/profiles/Niklas.jpg"
+  instagram: knightshouse2703
