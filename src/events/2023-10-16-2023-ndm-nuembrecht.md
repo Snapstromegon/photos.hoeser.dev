@@ -8,7 +8,7 @@ photographers:
   - Kim
   - Liz
   - Thomas
-  - Niklas
+  - ""
 google_photos:
   - url: https://photos.app.goo.gl/Ewjh42zDybKEGN4N7
     name: 2023 NDM Tag1 Einzelküren
