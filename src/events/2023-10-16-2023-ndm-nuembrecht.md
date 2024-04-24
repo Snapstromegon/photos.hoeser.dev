@@ -21,8 +21,6 @@ google_photos:
   - url: https://photos.app.goo.gl/8SejvpVyBNttNfuW7
     name: 2023 NDM Tag3 Gruppen
 ---
-[https://ndmfreestyle23.de/](https://ndmfreestyle23.de/)
-
 # Norddeutsche Meisterschaft
 
 Einrad Freestyle
