@@ -2,7 +2,8 @@
 title: 2024-05 Naturnser Muni Turnier
 date: 2024-05-18T11:35:54.713
 eleventyExcludeFromCollections: false
-tags: ""
+tags:
+  - Einrad
 photographers:
   - Thomas
 google_photos:
