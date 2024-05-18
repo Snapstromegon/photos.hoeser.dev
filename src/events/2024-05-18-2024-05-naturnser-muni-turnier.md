@@ -1,6 +1,6 @@
 ---
 title: 2024-05 Naturnser Muni Turnier
-date: 2024-05-18T11:35:54.713
+date: 2024-05-18T11:52:39.847+02:00
 eleventyExcludeFromCollections: false
 tags:
   - Einrad
@@ -11,4 +11,11 @@ google_photos:
     name: 2024-05-18 Naturnser Muni-Turnier
 ---
 
-[http://www.ssvnaturns.it/de/einrad/meisterschaften-veranstaltungen/214-0.html](http://www.ssvnaturns.it/de/einrad/meisterschaften-veranstaltungen/214-0.html) 
+[http://www.ssvnaturns.it/de/einrad/meisterschaften-veranstaltungen/214-0.html](http://www.ssvnaturns.it/de/einrad/meisterschaften-veranstaltungen/214-0.html)
+
+
+.
+
+
+
+
