@@ -10,3 +10,5 @@ google_photos:
   - url: https://photos.app.goo.gl/6yRn3TNRWEXvpuLz8
     name: 2024-05-18 Naturnser Muni-Turnier
 ---
+
+[http://www.ssvnaturns.it/de/einrad/meisterschaften-veranstaltungen/214-0.html](http://www.ssvnaturns.it/de/einrad/meisterschaften-veranstaltungen/214-0.html) 
