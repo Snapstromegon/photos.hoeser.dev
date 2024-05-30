@@ -1,6 +1,6 @@
 ---
 title: 2022 1. Damen CVJM Oberwiehl vs.  HC Weiden
-date: 2024-05-30T15:05:23.084
+date: 2022-10-29T08:00:00.000+02:00
 eleventyExcludeFromCollections: false
 tags:
   - Handball
