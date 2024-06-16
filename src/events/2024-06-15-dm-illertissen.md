@@ -8,4 +8,6 @@ photographers: ""
 google_photos:
   - url: https://photos.app.goo.gl/cXUgMqjX4F6bvgXM7
     name: DM Illertissen
+  - url: https://photos.app.goo.gl/2F3pScEqj4qj4UvaA
+    name: DM Illertissen Sonntag
 ---
