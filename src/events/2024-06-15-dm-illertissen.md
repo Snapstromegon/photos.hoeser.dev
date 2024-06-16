@@ -4,7 +4,8 @@ date: 2024-06-15T22:41:26.651
 eleventyExcludeFromCollections: false
 tags:
   - Einrad
-photographers: ""
+photographers:
+  - Liz
 google_photos:
   - url: https://photos.app.goo.gl/cXUgMqjX4F6bvgXM7
     name: DM Illertissen
