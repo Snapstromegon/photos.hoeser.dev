@@ -9,9 +9,8 @@ subpage: true
 <h3>Fotos von</h3>
 <div class="photographers">
 {%- for photographer in photographers-%}
-{% assign headshot = photographer_data[photographer].picture %}
 <a href="https://www.instagram.com/{{photographer_data[photographer].instagram }}" target="_blank" referrerPolicy="no-referrer" class="photographer">
-{%image headshot photographer%}
+<img src="{{photographer_data[photographer].picture}}" alt="{{photographer}}">
 <span class="photographer__name">{{photographer_data[photographer].fullName}}</span>
 </a>
 {%- endfor %}
@@ -19,20 +18,15 @@ subpage: true
 {%- endif %}
 
 <section id="grid">
-{% for album in albums %}
+{% for album in google_photos %}
 
-<a class="card" href="{{album.shareUrl}}">
-{% if album.coverPhotoBaseUrl -%}
-{%image album.coverPhotoBaseUrl album.title%}
-{%image album.coverPhotoBaseUrl album.title%}
+<a class="card" href="{{album.url}}">
+{% if album.cover -%}
+<img src="{{album.cover}}" alt="{{album.name}}">
+<img src="{{album.cover}}" alt="{{album.name}}">
 {% endif %}
 <footer>
-
-<h3>{{album.title}}</h3>
-
-<div class="photos_count">
-<span class="count">{{album.mediaItemsCount}}</span> Fotos
-</div>
+<h3>{{album.name}}</h3>
 </footer>
 </a>
 
