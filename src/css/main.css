@@ -83,7 +83,7 @@ footer {
       z-index: 2;
       display: grid;
       grid-template-columns: 1fr auto;
-      grid-template-areas: "title title" "photos photographers";
+      grid-template-areas: "title" "photographers";
       align-items: center;
 
       & h2 {

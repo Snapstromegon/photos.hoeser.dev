@@ -16,9 +16,9 @@ module.exports = function (eleventyConfig) {
         breaks: true,
         html: true,
         linkify: true,
-      })
-      .use(markdownItAttrs)
-      .use(markdownItEmoji);
+      });
+      // .use(markdownItAttrs)
+      // .use(markdownItEmoji);
 
     ["infoBox", "warningBox"].forEach((name) =>
       mdLib.use(markdownItContainer, name)
