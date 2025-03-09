@@ -32,7 +32,7 @@ collections:
           widget: "select",
           multiple: true,
           required: false,
-          options: ["Kim", "Liz", "Thomas"],
+          options: ["Kim", "Liz", "Thomas", "Niklas"],
         }
       
       - name: cover
