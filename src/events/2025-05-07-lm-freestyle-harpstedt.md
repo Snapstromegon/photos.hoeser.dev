@@ -7,6 +7,7 @@ tags:
 photographers:
   - Kim
   - Thomas
+cover: /assets/imgs/uploads/lm_logo.png
 ---
 Landesmeisterschaft Einrad Freestyle
 
