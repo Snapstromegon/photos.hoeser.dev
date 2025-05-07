@@ -1,5 +1,5 @@
 ---
-title: RhEinrad Cup Bonn
+title: 2025-05 RhEinrad Cup Bonn
 date: 2025-05-17T09:00:00.000Z
 eleventyExcludeFromCollections: false
 tags:
@@ -7,6 +7,7 @@ tags:
 photographers:
   - Kim
   - Thomas
+cover: /assets/imgs/uploads/rrc_logo.png
 ---
 RhEinrad Cup Bonn
 
