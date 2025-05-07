@@ -1,5 +1,5 @@
 ---
-title: LM Freestyle Harpstedt
+title: 2025-05 LM Freestyle Harpstedt
 date: 2025-05-24T08:00:00.000Z
 eleventyExcludeFromCollections: false
 tags:
