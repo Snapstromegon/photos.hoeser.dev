@@ -8,3 +8,10 @@ photographers:
   - Kim
   - Thomas
 ---
+RhEinrad Cup Bonn
+
+Einrad Rennen
+
+(mit Newcomer-Wertung)
+
+17. Mai 2025 in Bonn
