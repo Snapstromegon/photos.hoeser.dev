@@ -8,6 +8,9 @@ photographers:
   - Kim
   - Thomas
 cover: /assets/imgs/uploads/rrc_logo.png
+google_photos:
+  - name: 2025-05 RhEinrad Cup Bonn
+    url: https://photos.app.goo.gl/nACcyomTWvgfcq6E8
 ---
 RhEinrad Cup Bonn
 
