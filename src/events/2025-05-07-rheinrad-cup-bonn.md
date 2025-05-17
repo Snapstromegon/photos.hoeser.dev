@@ -19,3 +19,4 @@ Einrad Rennen
 (mit Newcomer-Wertung)
 
 17. Mai 2025 in Bonn
+18. .
