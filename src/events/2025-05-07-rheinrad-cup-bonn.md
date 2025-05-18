@@ -7,7 +7,7 @@ tags:
 photographers:
   - Kim
   - Thomas
-cover: /assets/imgs/uploads/rrc_logo.png
+cover: /assets/imgs/uploads/2025-05-17_11-23_hoeser_0018.jpg
 google_photos:
   - name: 2025-05 RhEinrad Cup Bonn
     url: https://photos.app.goo.gl/nACcyomTWvgfcq6E8
