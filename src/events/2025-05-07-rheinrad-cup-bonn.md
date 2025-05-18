@@ -11,6 +11,7 @@ cover: /assets/imgs/uploads/2025-05-17_11-23_hoeser_0018.jpg
 google_photos:
   - name: 2025-05 RhEinrad Cup Bonn
     url: https://photos.app.goo.gl/nACcyomTWvgfcq6E8
+    cover: /assets/imgs/uploads/2025-05-17_14-09_hoeser_0062.jpg
 ---
 RhEinrad Cup Bonn
 
