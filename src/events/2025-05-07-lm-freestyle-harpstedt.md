@@ -18,7 +18,7 @@ google_photos:
   - name: Paarkür u11-17
     url: https://photos.app.goo.gl/xCv6XmuUqxA32E2L8
     cover: /assets/imgs/uploads/lm_paar.png
-  - name: 2025-05 LM Paar u19+
+  - name: Paarkür u19+
     url: https://photos.app.goo.gl/v7HgAQZ2EijJAqfeA
     cover: /assets/imgs/uploads/lm_paar.png
   - name: Expert Einzel
