@@ -5,7 +5,6 @@ eleventyExcludeFromCollections: false
 tags:
   - Einrad
 photographers:
-  - Kim
   - Thomas
 cover: /assets/imgs/uploads/lm_logo.png
 google_photos:
