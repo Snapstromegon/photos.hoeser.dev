@@ -39,4 +39,6 @@ Bremen, Niedersachsen, Nordrhein-Westfalen
 
 24.05.-25.05.2025 in Harpstedt
 
-<https://unicycle-team.de/>
+[https://unicycle-team.de](https://unicycle-team.de/)
+
+[](https://unicycle-team.de/)<https://einrad-bdr.de/upload/file/2025/Dokumente/250524_LGM-NRW-NI-HB-Freestyle/250524_Ausschreibung_LGM-NW-NI-HB-Freestyle_v250128.pdf>[](https://unicycle-team.de/)
