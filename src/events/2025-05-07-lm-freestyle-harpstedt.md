@@ -20,6 +20,8 @@ google_photos:
   - name: Paarkür u19+
     url: https://photos.app.goo.gl/v7HgAQZ2EijJAqfeA
     cover: /assets/imgs/uploads/lm_paar.png
+  - url: https://photos.app.goo.gl/bVozRUEuXPaFW7zs8
+    name: 2025-05 Tag 1 Siegerehrung
   - name: Expert Einzel
     cover: /assets/imgs/uploads/lm_einzel.png
     url: https://photos.app.goo.gl/Uwq1MsDTfgQkACBEA
