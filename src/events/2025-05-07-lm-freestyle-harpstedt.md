@@ -10,18 +10,19 @@ cover: /assets/imgs/uploads/lm_logo.png
 google_photos:
   - name: Einzel u11, 17, 13, 19
     url: https://photos.app.goo.gl/3qe2YqzVqnnK1xX19
-    cover: /assets/imgs/uploads/lm_einzel.png
+    cover: /assets/imgs/uploads/2025-05-24_06-35_hoeser_0002_original.jpg
   - name: "Einzel u15, 21, 23, 25, 25+ "
     url: https://photos.app.goo.gl/PPgYmeMrWBdXGATw8
-    cover: /assets/imgs/uploads/lm_einzel.png
+    cover: /assets/imgs/uploads/2025-05-24_10-16_hoeser_0001.jpg
   - name: Paarkür u11-17
     url: https://photos.app.goo.gl/xCv6XmuUqxA32E2L8
-    cover: /assets/imgs/uploads/lm_paar.png
+    cover: /assets/imgs/uploads/2025-05-24_15-00_hoeser_0001.jpg
   - name: Paarkür u19+
     url: https://photos.app.goo.gl/v7HgAQZ2EijJAqfeA
-    cover: /assets/imgs/uploads/lm_paar.png
+    cover: /assets/imgs/uploads/2025-05-24_16-23_hoeser_0001.jpg
   - url: https://photos.app.goo.gl/bVozRUEuXPaFW7zs8
     name: 2025-05 Tag 1 Siegerehrung
+    cover: /assets/imgs/uploads/2025-05-24_18-52_hoeser_0002.jpg
   - name: Expert Einzel
     cover: /assets/imgs/uploads/lm_einzel.png
     url: https://photos.app.goo.gl/Uwq1MsDTfgQkACBEA
