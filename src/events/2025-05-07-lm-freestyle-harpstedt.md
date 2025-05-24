@@ -6,7 +6,7 @@ tags:
   - Einrad
 photographers:
   - Thomas
-cover: /assets/imgs/uploads/lm_logo.png
+cover: /assets/imgs/uploads/2025-05-24_18-24_hoeser_0083.jpg
 google_photos:
   - name: Einzel u11, 17, 13, 19
     url: https://photos.app.goo.gl/3qe2YqzVqnnK1xX19
