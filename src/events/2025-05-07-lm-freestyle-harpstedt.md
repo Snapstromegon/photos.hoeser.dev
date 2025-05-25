@@ -30,7 +30,7 @@ google_photos:
     cover: /assets/imgs/uploads/2025-05-25_12-56_hoeser_0147.jpg
     url: https://photos.app.goo.gl/fhjwTp52EsuHwCPu5
   - name: Kleingruppen
-    cover: /assets/imgs/uploads/lm_gruppe.png
+    cover: /assets/imgs/uploads/2025-05-25_16-54_hoeser_0001.jpg
     url: https://photos.app.goo.gl/rUtVQz6sFk9BW8BEA
   - name: Großgruppen
     cover: /assets/imgs/uploads/lm_gruppe.png
