@@ -37,6 +37,7 @@ google_photos:
     url: https://photos.app.goo.gl/RgCX52Ymc6hgq1yQ6
   - name: 2025-05 Tag 2 Siegerehrung
     url: https://photos.app.goo.gl/faXPmdsfBw2ubpJM6
+    cover: /assets/imgs/uploads/2025-05-25_13-24_hoeser_0004.jpg
 ---
 Landesmeisterschaft Einrad Freestyle
 
