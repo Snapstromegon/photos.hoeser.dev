@@ -27,7 +27,7 @@ google_photos:
     cover: /assets/imgs/uploads/2025-05-25_06-52_hoeser_0001.jpg
     url: https://photos.app.goo.gl/Uwq1MsDTfgQkACBEA
   - name: Expert Paar
-    cover: /assets/imgs/uploads/lm_paar.png
+    cover: /assets/imgs/uploads/2025-05-25_12-56_hoeser_0147.jpg
     url: https://photos.app.goo.gl/fhjwTp52EsuHwCPu5
   - name: Kleingruppen
     cover: /assets/imgs/uploads/lm_gruppe.png
