@@ -30,10 +30,10 @@ google_photos:
     cover: /assets/imgs/uploads/2025-05-25_12-56_hoeser_0147.jpg
     url: https://photos.app.goo.gl/fhjwTp52EsuHwCPu5
   - name: Kleingruppen
-    cover: /assets/imgs/uploads/2025-05-25_16-54_hoeser_0001.jpg
+    cover: /assets/imgs/uploads/2025-05-25_15-09_hoeser_0104_original.jpg
     url: https://photos.app.goo.gl/rUtVQz6sFk9BW8BEA
   - name: Großgruppen
-    cover: /assets/imgs/uploads/lm_gruppe.png
+    cover: /assets/imgs/uploads/2025-05-25_16-54_hoeser_0001.jpg
     url: https://photos.app.goo.gl/RgCX52Ymc6hgq1yQ6
   - name: 2025-05 Tag 2 Siegerehrung
     url: https://photos.app.goo.gl/faXPmdsfBw2ubpJM6
