@@ -35,6 +35,8 @@ google_photos:
   - name: Großgruppen
     cover: /assets/imgs/uploads/lm_gruppe.png
     url: https://photos.app.goo.gl/RgCX52Ymc6hgq1yQ6
+  - name: 2025-05 Tag 2 Siegerehrung
+    url: https://photos.app.goo.gl/faXPmdsfBw2ubpJM6
 ---
 Landesmeisterschaft Einrad Freestyle
 
