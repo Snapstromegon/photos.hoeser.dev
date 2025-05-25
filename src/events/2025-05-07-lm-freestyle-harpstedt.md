@@ -24,7 +24,7 @@ google_photos:
     name: 2025-05 Tag 1 Siegerehrung
     cover: /assets/imgs/uploads/2025-05-24_18-52_hoeser_0002.jpg
   - name: Expert Einzel
-    cover: /assets/imgs/uploads/lm_einzel.png
+    cover: /assets/imgs/uploads/2025-05-25_06-52_hoeser_0001.jpg
     url: https://photos.app.goo.gl/Uwq1MsDTfgQkACBEA
   - name: Expert Paar
     cover: /assets/imgs/uploads/lm_paar.png
