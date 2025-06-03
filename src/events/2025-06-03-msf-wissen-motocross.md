@@ -5,7 +5,7 @@ eleventyExcludeFromCollections: false
 tags: null
 photographers:
   - Thomas
-cover: /assets/imgs/uploads/2025-05-21__13-18-48___tz69181_original.jpeg
+cover: /assets/imgs/uploads/7cb5288b-4c79-4480-951c-9d9918c818e9.jpeg
 google_photos:
   - name: "Motocross Lehrgang "
     url: https://photos.app.goo.gl/YSAwyzUifxWjbK4T9
