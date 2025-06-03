@@ -6,6 +6,7 @@ tags:
   - Einrad
 photographers:
   - Thomas
+  - Lena
 cover: /assets/imgs/uploads/2025-05-24_18-24_hoeser_0083.jpg
 google_photos:
   - name: Einzel u11, 17, 13, 19
