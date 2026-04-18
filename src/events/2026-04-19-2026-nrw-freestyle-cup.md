@@ -8,7 +8,10 @@ photographers:
   - Niklas
 cover: /assets/imgs/uploads/nrw-cup-banner.png
 google_photos:
-  - name: 260418_nrwfreestylecup
-    url: https://www.picdrop.com/lizhoeser/Fp3CXdPUyL
+  - name: Einzel
+    url: https://www.picdrop.com/lizhoeser/8zMtDGzPmU
+    cover: /assets/imgs/uploads/nrw-cup-banner.png
+  - name: Paar
+    url: https://www.picdrop.com/lizhoeser/oGk7DTJZ8t
     cover: /assets/imgs/uploads/nrw-cup-banner.png
 ---
