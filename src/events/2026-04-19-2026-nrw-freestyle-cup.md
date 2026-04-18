@@ -6,7 +6,9 @@ tags:
   - Einrad
 photographers:
   - Niklas
+cover: /assets/imgs/uploads/nrw-cup-banner.png
 google_photos:
   - name: 260418_nrwfreestylecup
     url: https://www.picdrop.com/lizhoeser/Fp3CXdPUyL
+    cover: /assets/imgs/uploads/nrw-cup-banner.png
 ---
