@@ -11,5 +11,8 @@ google_photos:
   - url: https://photos.app.goo.gl/je5jCHpT9fiYFnuw6
     name: Jumps on Track
     cover: /assets/imgs/uploads/2018-07-31_unicon19_60662.jpg
+  - url: https://photos.app.goo.gl/je5jCHpT9fiYFnuw6
+    name: Speed Trials
+    cover: /assets/imgs/uploads/2025-03-22__11-36-09___tz68081.jpg
 ---
 <https://www.unicon22.at/en>
