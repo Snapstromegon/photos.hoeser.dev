@@ -11,7 +11,7 @@ google_photos:
   - url: https://photos.app.goo.gl/je5jCHpT9fiYFnuw6
     name: Jumps on Track
     cover: /assets/imgs/uploads/2018-07-31_unicon19_60662.jpg
-  - url: https://photos.app.goo.gl/je5jCHpT9fiYFnuw6
+  - url: https://photos.app.goo.gl/r9Ne2oXGQw5xza8Q8
     name: Speed Trials
     cover: /assets/imgs/uploads/z63_3762.jpg
   - name: Freestyle Junior Expert
