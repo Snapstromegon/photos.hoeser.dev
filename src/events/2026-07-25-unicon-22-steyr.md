@@ -8,12 +8,12 @@ photographers:
   - Thomas
 cover: /assets/imgs/uploads/unicon-logo.png
 google_photos:
-  - url: https://photos.app.goo.gl/je5jCHpT9fiYFnuw6
-    name: Jumps on Track
-    cover: /assets/imgs/uploads/2018-07-31_unicon19_60662.jpg
   - name: Registration
     url: https://photos.app.goo.gl/AGB3g3MGhzSzsdry6
     cover: /assets/imgs/uploads/2026-07-24__17-17-40___tz61243.jpg
+  - url: https://photos.app.goo.gl/je5jCHpT9fiYFnuw6
+    name: Jumps on Track
+    cover: /assets/imgs/uploads/2018-07-31_unicon19_60662.jpg
   - url: https://photos.app.goo.gl/r9Ne2oXGQw5xza8Q8
     name: Speed Trials
     cover: /assets/imgs/uploads/z63_3762.jpg
