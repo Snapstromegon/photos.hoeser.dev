@@ -11,6 +11,9 @@ google_photos:
   - name: Registration
     url: https://photos.app.goo.gl/AGB3g3MGhzSzsdry6
     cover: /assets/imgs/uploads/2026-07-24__17-17-40___tz61243.jpg
+  - url: https://photos.app.goo.gl/ogdpvn1mCGqNDJVZ7
+    name: Trial Wave 1+2
+    cover: /assets/imgs/uploads/2024-07-25_Cyclocross_thomashoeser_0304.jpg
   - url: https://photos.app.goo.gl/je5jCHpT9fiYFnuw6
     name: Jumps on Track
     cover: /assets/imgs/uploads/2018-07-31_unicon19_60662.jpg
@@ -23,8 +26,5 @@ google_photos:
   - url: https://photos.app.goo.gl/S2SNFoLbpyCy4nvZ7
     name: Freestyle Pairs Expert
     cover: /assets/imgs/uploads/2024-07-21_Freestyle_thomashoeser_0070.jpg
-  - url: https://photos.app.goo.gl/ogdpvn1mCGqNDJVZ7
-    name: Trial Wave 1+2
-    cover: /assets/imgs/uploads/2024-07-25_Cyclocross_thomashoeser_0304.jpg
 ---
 <https://www.unicon22.at/en>
