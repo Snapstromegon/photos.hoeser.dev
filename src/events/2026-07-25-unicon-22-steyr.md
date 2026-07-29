@@ -19,10 +19,10 @@ google_photos:
     cover: /assets/imgs/uploads/2026-07-27_trialpainting_thomashoeser_002.jpg
   - url: https://photos.app.goo.gl/je5jCHpT9fiYFnuw6
     name: Jumps on Track
-    cover: /assets/imgs/uploads/2018-07-31_unicon19_60662.jpg
+    cover: /assets/imgs/uploads/2026-07-28_jumpsontrack_thomashoeser_237.jpg
   - url: https://photos.app.goo.gl/r9Ne2oXGQw5xza8Q8
     name: Speed Trials
-    cover: /assets/imgs/uploads/z63_3762.jpg
+    cover: /assets/imgs/uploads/2026-07-29_speedtrial_thomashoeser_008.jpg
   - name: Freestyle Junior Expert
     url: https://photos.app.goo.gl/omh4vjbdmGJfXXZr5
     cover: /assets/imgs/uploads/2024-07-18_Freestyle_thomashoeser_0493.jpg
