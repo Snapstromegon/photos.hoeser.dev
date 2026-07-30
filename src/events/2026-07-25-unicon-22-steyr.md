@@ -21,7 +21,7 @@ google_photos:
     name: Jumps on Track
     cover: /assets/imgs/uploads/2026-07-28_jumpsontrack_thomashoeser_237.jpg
   - url: https://photos.app.goo.gl/r9Ne2oXGQw5xza8Q8
-    name: Speed Trials
+    name: Speed Trials Qualification
     cover: /assets/imgs/uploads/2026-07-29_speedtrial_thomashoeser_008.jpg
   - name: Freestyle Junior Expert
     url: https://photos.app.goo.gl/omh4vjbdmGJfXXZr5
@@ -29,5 +29,8 @@ google_photos:
   - url: https://photos.app.goo.gl/S2SNFoLbpyCy4nvZ7
     name: Freestyle Pairs Expert
     cover: /assets/imgs/uploads/2024-07-21_Freestyle_thomashoeser_0070.jpg
+  - url: https://photos.app.goo.gl/rg2RpiPtWZJrZYVHA
+    name: Speed Trial Finals
+    cover: /assets/imgs/uploads/2026-07-30_speedtrials_thomashoeser_120.jpg
 ---
 <https://www.unicon22.at/en>
