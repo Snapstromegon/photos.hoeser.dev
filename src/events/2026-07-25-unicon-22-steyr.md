@@ -26,14 +26,14 @@ google_photos:
   - url: https://photos.app.goo.gl/rg2RpiPtWZJrZYVHA
     name: Speed Trial Finals
     cover: /assets/imgs/uploads/2026-07-30_speedtrials_thomashoeser_120.jpg
+  - name: 2026-08 3x3 Basketball Qualification
+    url: https://photos.app.goo.gl/ZcMD5vBJeVb3dehL6
+    cover: /assets/imgs/uploads/2026-08-01_basketball-3x3_thomashoeser_001.jpg
   - name: Freestyle Junior Expert
     url: https://photos.app.goo.gl/omh4vjbdmGJfXXZr5
     cover: /assets/imgs/uploads/2024-07-18_Freestyle_thomashoeser_0493.jpg
   - url: https://photos.app.goo.gl/S2SNFoLbpyCy4nvZ7
     name: Freestyle Pairs Expert
     cover: /assets/imgs/uploads/2024-07-21_Freestyle_thomashoeser_0070.jpg
-  - name: 2026-08 3x3 Basketball Qualification
-    url: https://photos.app.goo.gl/ZcMD5vBJeVb3dehL6
-    cover: /assets/imgs/uploads/2026-08-01_basketball-3x3_thomashoeser_001.jpg
 ---
 <https://www.unicon22.at/en>
