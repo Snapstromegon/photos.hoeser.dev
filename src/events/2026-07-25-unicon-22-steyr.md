@@ -35,5 +35,7 @@ google_photos:
   - url: https://photos.app.goo.gl/S2SNFoLbpyCy4nvZ7
     name: Freestyle Pairs Expert
     cover: /assets/imgs/uploads/2024-07-21_Freestyle_thomashoeser_0070.jpg
+  - name: Flat Lower Brackets
+    url: https://photos.app.goo.gl/Jr2J7Lx3VvPRwcVo6
 ---
 <https://www.unicon22.at/en>
