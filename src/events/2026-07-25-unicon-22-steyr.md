@@ -29,13 +29,14 @@ google_photos:
   - name: 2026-08 3x3 Basketball Qualification
     url: https://photos.app.goo.gl/ZcMD5vBJeVb3dehL6
     cover: /assets/imgs/uploads/2026-08-01_basketball-3x3_thomashoeser_001.jpg
+  - name: Flat Lower Brackets
+    url: https://photos.app.goo.gl/Jr2J7Lx3VvPRwcVo6
+    cover: /assets/imgs/uploads/2026-08-02_flat_thomashoeser_175.jpg
   - name: Freestyle Junior Expert
     url: https://photos.app.goo.gl/omh4vjbdmGJfXXZr5
     cover: /assets/imgs/uploads/2024-07-18_Freestyle_thomashoeser_0493.jpg
   - url: https://photos.app.goo.gl/S2SNFoLbpyCy4nvZ7
     name: Freestyle Pairs Expert
     cover: /assets/imgs/uploads/2024-07-21_Freestyle_thomashoeser_0070.jpg
-  - name: Flat Lower Brackets
-    url: https://photos.app.goo.gl/Jr2J7Lx3VvPRwcVo6
 ---
 <https://www.unicon22.at/en>
