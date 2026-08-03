@@ -32,6 +32,9 @@ google_photos:
   - name: Flat Lower Brackets
     url: https://photos.app.goo.gl/Jr2J7Lx3VvPRwcVo6
     cover: /assets/imgs/uploads/2026-08-02_flat_thomashoeser_175.jpg
+  - name: Hockey
+    url: https://photos.app.goo.gl/6Vn52cGyC9Dx59747
+    cover: /assets/imgs/uploads/2026-08-03_hockey_thomashoeser_002.jpg
   - name: Freestyle Junior Expert
     url: https://photos.app.goo.gl/omh4vjbdmGJfXXZr5
     cover: /assets/imgs/uploads/2024-07-18_Freestyle_thomashoeser_0493.jpg
