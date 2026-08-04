@@ -40,7 +40,7 @@ google_photos:
     cover: /assets/imgs/uploads/2026-08-03_flat_thomashoeser_001.jpg
   - name: Freestyle Junior Expert
     url: https://photos.app.goo.gl/omh4vjbdmGJfXXZr5
-    cover: /assets/imgs/uploads/2024-07-18_Freestyle_thomashoeser_0493.jpg
+    cover: /assets/imgs/uploads/2026-08-03_freestyle_thomashoeser_009.jpg
   - url: https://photos.app.goo.gl/S2SNFoLbpyCy4nvZ7
     name: Freestyle Pairs Expert
     cover: /assets/imgs/uploads/2024-07-21_Freestyle_thomashoeser_0070.jpg
