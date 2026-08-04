@@ -35,6 +35,9 @@ google_photos:
   - name: Hockey
     url: https://photos.app.goo.gl/6Vn52cGyC9Dx59747
     cover: /assets/imgs/uploads/2026-08-03_hockey_thomashoeser_002.jpg
+  - name: Flat Finals
+    url: https://photos.app.goo.gl/xLGn8oaLHBSTFa6r8
+    cover: /assets/imgs/uploads/2026-08-03_flat_thomashoeser_001.jpg
   - name: Freestyle Junior Expert
     url: https://photos.app.goo.gl/omh4vjbdmGJfXXZr5
     cover: /assets/imgs/uploads/2024-07-18_Freestyle_thomashoeser_0493.jpg
