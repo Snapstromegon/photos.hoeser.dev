@@ -38,6 +38,12 @@ google_photos:
   - name: Flat Finals
     url: https://photos.app.goo.gl/xLGn8oaLHBSTFa6r8
     cover: /assets/imgs/uploads/2026-08-03_flat_thomashoeser_001.jpg
+  - name: 100m
+    url: https://photos.app.goo.gl/iYN7pBtvygyQwiye8
+    cover: /assets/imgs/uploads/2026-08-05_100m_thomashoeser_062.jpg
+  - name: Relays
+    url: https://photos.app.goo.gl/iYN7pBtvygyQwiye8
+    cover: /assets/imgs/uploads/2026-08-05_relays_thomashoeser_063.jpg
   - name: Freestyle Junior Expert
     url: https://photos.app.goo.gl/omh4vjbdmGJfXXZr5
     cover: /assets/imgs/uploads/2026-08-03_freestyle_thomashoeser_009.jpg
