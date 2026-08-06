@@ -6,7 +6,7 @@ tags:
   - Einrad
 photographers:
   - Thomas
-cover: /assets/imgs/uploads/unicon-logo.png
+cover: /assets/imgs/uploads/img_6823.jpeg
 google_photos:
   - name: Registration
     url: https://photos.app.goo.gl/AGB3g3MGhzSzsdry6
