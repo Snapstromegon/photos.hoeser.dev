@@ -49,6 +49,6 @@ google_photos:
     cover: /assets/imgs/uploads/2026-08-03_freestyle_thomashoeser_009.jpg
   - url: https://photos.app.goo.gl/S2SNFoLbpyCy4nvZ7
     name: Freestyle Pairs Expert
-    cover: /assets/imgs/uploads/2026-08-05_freestyle-pairs-expert_thomashoeser_006.jpeg
+    cover: /assets/imgs/uploads/2026-08-05_freestyle-pairs-expert_thomashoeser_399_original.jpeg
 ---
 <https://www.unicon22.at/en>
