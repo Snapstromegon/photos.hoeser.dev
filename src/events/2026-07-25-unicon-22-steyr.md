@@ -50,5 +50,8 @@ google_photos:
   - url: https://photos.app.goo.gl/S2SNFoLbpyCy4nvZ7
     name: Freestyle Pairs Expert
     cover: /assets/imgs/uploads/2026-08-05_freestyle-pairs-expert_thomashoeser_399_original.jpeg
+  - name: Cyclocross
+    url: https://photos.app.goo.gl/EHb9FM6D3Sd9KXzW6
+    cover: /assets/imgs/uploads/2026-08-07_cyclocross_thomashoeser_310.jpg
 ---
 <https://www.unicon22.at/en>
