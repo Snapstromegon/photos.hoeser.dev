@@ -53,5 +53,8 @@ google_photos:
   - name: Cyclocross
     url: https://photos.app.goo.gl/EHb9FM6D3Sd9KXzW6
     cover: /assets/imgs/uploads/2026-08-07_cyclocross_thomashoeser_310.jpg
+  - name: Street Final Trick Jelle Dillan
+    url: https://photos.app.goo.gl/ZiAJSkickMfmFXLCA
+    cover: /assets/imgs/uploads/screenshot-2026-08-10-at-19.58.18.png
 ---
 <https://www.unicon22.at/en>
