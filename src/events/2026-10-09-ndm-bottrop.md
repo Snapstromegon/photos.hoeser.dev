@@ -10,7 +10,7 @@ cover: /assets/imgs/uploads/2026-10-09_ndm-2_thomashoeser_031.jpg
 google_photos:
   - name: 2026-10 NDM EK U11-U21
     url: "https://photos.app.goo.gl/SyFFjPpPD4msw8r17 "
-    cover: /assets/imgs/uploads/einzel-placeholder.png
+    cover: /assets/imgs/uploads/2026-10-09_ndm-2_thomashoeser_031.jpg
   - name: 2026-10 NDM EK U23-U70
     url: "https://photos.app.goo.gl/vMPgeP2V1QXMn26KA "
     cover: /assets/imgs/uploads/einzel-placeholder.png
