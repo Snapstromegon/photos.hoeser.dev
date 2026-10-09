@@ -33,3 +33,4 @@ google_photos:
     url: "https://photos.app.goo.gl/Cq3qboPaj47j2Maq7 "
     cover: /assets/imgs/uploads/gruppen-placeholder.png
 ---
+.
