@@ -6,7 +6,7 @@ tags:
   - Einrad
 photographers:
   - Thomas
-cover: /assets/imgs/uploads/_logo_ndm_png.png
+cover: /assets/imgs/uploads/2026-10-09_ndm-2_thomashoeser_031.jpg
 google_photos:
   - name: 2026-10 NDM EK U11-U21
     url: "https://photos.app.goo.gl/SyFFjPpPD4msw8r17 "
