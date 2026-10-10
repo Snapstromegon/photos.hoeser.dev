@@ -16,7 +16,7 @@ google_photos:
     cover: /assets/imgs/uploads/2026-10-10_ndm-2_thomashoeser_011.jpg
   - name: "2026-10 NDM PK U11-U19\t"
     url: "https://photos.app.goo.gl/bDE9qz4cWQ7waScj7 "
-    cover: /assets/imgs/uploads/paar-placeholder.png
+    cover: /assets/imgs/uploads/2026-10-10_ndm-1_thomashoeser_009.jpg
   - name: 2026-10 NDM PK U21-U70
     url: "https://photos.app.goo.gl/TLV2anS5KxBHV4d26 "
     cover: /assets/imgs/uploads/paar-placeholder.png
