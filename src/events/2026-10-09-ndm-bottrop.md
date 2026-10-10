@@ -19,7 +19,7 @@ google_photos:
     cover: /assets/imgs/uploads/2026-10-10_ndm-1_thomashoeser_009.jpg
   - name: 2026-10 NDM PK U21-U70
     url: "https://photos.app.goo.gl/TLV2anS5KxBHV4d26 "
-    cover: /assets/imgs/uploads/paar-placeholder.png
+    cover: /assets/imgs/uploads/2026-10-10_ndm_thomashoeser_013.jpg
   - name: 2026-10 NDM Expert Einzel
     cover: /assets/imgs/uploads/einzel-placeholder.png
     url: "https://photos.app.goo.gl/6BVgj12Nc8qnjpxbA "
