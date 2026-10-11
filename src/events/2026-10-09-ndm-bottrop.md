@@ -32,5 +32,7 @@ google_photos:
   - name: 2026-10 NDM Großgruppe
     url: "https://photos.app.goo.gl/Cq3qboPaj47j2Maq7 "
     cover: /assets/imgs/uploads/gruppen-placeholder.png
+  - url: https://lightroom.adobe.com/shares/8e96bb46405544089f66665522f7c661
+    name: Finne Ende
 ---
 ..
