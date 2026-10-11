@@ -21,7 +21,7 @@ google_photos:
     url: "https://photos.app.goo.gl/TLV2anS5KxBHV4d26 "
     cover: /assets/imgs/uploads/2026-10-10_ndm_thomashoeser_013.jpg
   - name: 2026-10 NDM Expert Einzel
-    cover: /assets/imgs/uploads/einzel-placeholder.png
+    cover: /assets/imgs/uploads/2026-10-11_ndm-6_thomashoeser_024.jpg
     url: "https://photos.app.goo.gl/6BVgj12Nc8qnjpxbA "
   - name: "2026-10 NDM Expert Paar\t"
     url: "https://photos.app.goo.gl/64wUwYKHTBuBKcZz5 "
