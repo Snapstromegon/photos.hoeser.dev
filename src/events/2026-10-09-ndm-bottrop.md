@@ -25,7 +25,7 @@ google_photos:
     url: "https://photos.app.goo.gl/6BVgj12Nc8qnjpxbA "
   - name: "2026-10 NDM Expert Paar\t"
     url: "https://photos.app.goo.gl/64wUwYKHTBuBKcZz5 "
-    cover: /assets/imgs/uploads/paar-placeholder.png
+    cover: /assets/imgs/uploads/2026-10-11_ndm-2_thomashoeser_111.jpg
   - name: "2026-10 NDM Kleingruppe\t"
     url: "https://photos.app.goo.gl/DZPyPgVoYe52hNhcA "
     cover: /assets/imgs/uploads/gruppen-placeholder.png
