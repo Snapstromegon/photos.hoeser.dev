@@ -28,12 +28,9 @@ google_photos:
     cover: /assets/imgs/uploads/2026-10-11_ndm-2_thomashoeser_111.jpg
   - name: "2026-10 NDM Kleingruppe\t"
     url: "https://photos.app.goo.gl/DZPyPgVoYe52hNhcA "
-    cover: /assets/imgs/uploads/gruppen-placeholder.png
+    cover: /assets/imgs/uploads/2026-10-11_ndm-1_thomashoeser_159.jpg
   - name: 2026-10 NDM Großgruppe
     url: "https://photos.app.goo.gl/Cq3qboPaj47j2Maq7 "
     cover: /assets/imgs/uploads/gruppen-placeholder.png
-  - url: https://lightroom.adobe.com/shares/8e96bb46405544089f66665522f7c661
-    name: Finne Ende
-    cover: /assets/imgs/uploads/2026-10-11_ndm-0_thomashoeser_001-2.jpeg
 ---
 ..
