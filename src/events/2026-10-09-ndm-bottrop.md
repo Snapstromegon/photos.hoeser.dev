@@ -34,5 +34,6 @@ google_photos:
     cover: /assets/imgs/uploads/gruppen-placeholder.png
   - url: https://lightroom.adobe.com/shares/8e96bb46405544089f66665522f7c661
     name: Finne Ende
+    cover: /assets/imgs/uploads/2026-10-11_ndm-0_thomashoeser_001-2.jpeg
 ---
 ..
