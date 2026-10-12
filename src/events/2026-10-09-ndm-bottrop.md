@@ -1,5 +1,5 @@
 ---
-title: NDM Bottrop
+title: 2026 NDM Bottrop
 date: 2026-10-09T09:26:00.000+02:00
 eleventyExcludeFromCollections: false
 tags:
@@ -36,4 +36,8 @@ google_photos:
     name: Fiene Ende / f.m.e._photography
     cover: /assets/imgs/uploads/2026-10-11_ndm-0_thomashoeser_001-2.jpg
 ---
-..
+Norddeutsche Meisterschaft im Einrad Freestyle
+
+09.10. – 11.10.2026 in Bottrop
+
+Ausrichter DJK Adler 07 Bottrop e.V.
