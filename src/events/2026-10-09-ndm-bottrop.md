@@ -31,6 +31,6 @@ google_photos:
     cover: /assets/imgs/uploads/2026-10-11_ndm-1_thomashoeser_159.jpg
   - name: 2026-10 NDM Großgruppe
     url: "https://photos.app.goo.gl/Cq3qboPaj47j2Maq7 "
-    cover: /assets/imgs/uploads/gruppen-placeholder.png
+    cover: /assets/imgs/uploads/2026-10-11_ndm-1_thomashoeser_270.jpg
 ---
 ..
