@@ -32,5 +32,8 @@ google_photos:
   - name: 2026-10 NDM Großgruppe
     url: "https://photos.app.goo.gl/Cq3qboPaj47j2Maq7 "
     cover: /assets/imgs/uploads/2026-10-11_ndm-1_thomashoeser_270.jpg
+  - url: https://lightroom.adobe.com/shares/8e96bb46405544089f66665522f7c661
+    name: Fiene Ende / f.m.e._photography
+    cover: /assets/imgs/uploads/2026-10-11_ndm-0_thomashoeser_001-2.jpg
 ---
 ..
